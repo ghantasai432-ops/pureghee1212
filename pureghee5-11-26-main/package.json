@@ -1,0 +1,8 @@
+{
+  "name": "amrutha-pure-ghee-store",
+  "version": "1.0.0",
+  "description": "Amrutha Pure Ghee Online Store",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
